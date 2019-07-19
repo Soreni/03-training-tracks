@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Soreni
 
-Track Name: 
+Track Name: MSD
 
-Track Description: 
+Track Description: initial 
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
